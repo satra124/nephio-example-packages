@@ -1,2 +1,2 @@
 # nephio-example-packages
-Some of the example packages of nephio
+Playground for experimenting and creating example packages.
